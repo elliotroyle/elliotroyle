@@ -4,7 +4,7 @@ Welcome to my GitHub profile.
 
 ## 👨‍🦱 About me (he/him)
 
-I'm an experienced NHS analyst currently working for the [NHS Transformation Unit](https://transformationunit.nhs.uk/). I'm passionate about using data to drive positive changes in healthcare. This involves empowering colleagues with insights and improving patient outcomes through data-driven interventions. I completed my Data Science MSc at the University of Salford, where I will also be embarking upon a PhD in Population Health Data Science.
+I'm an experienced NHS analyst currently working for the [NHS Transformation Unit](https://transformationunit.nhs.uk/). I'm passionate about using data to drive positive changes in healthcare. This involves empowering colleagues with insights and improving patient outcomes through data-driven interventions. I completed my Data Science MSc at the University of Salford, where I am currently studying towards a PhD. The aim of my postgraduate research is to investigate spatiotemporal methods of predicting changes in health inequalities in communities in the Northwest of England.
 
 Whilst working at the NHS Transformation Unit I have recently been working on pathway modelling, dashboard visualisation and population health analytics. If you'd like to see some of the work we've been engaged in recently, take a look at our [GitHub page](https://github.com/NHS-Transformation-Unit).
 
